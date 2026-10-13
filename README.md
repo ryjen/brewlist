@@ -1,5 +1,8 @@
 # brewlist
 
+> **Historical, unmaintained project.** This repository preserves an older Rails application for portfolio/history purposes. Its Ruby 2.3.1, Rails 5, and PhantomJS toolchain is obsolete; do not deploy it to an exposed environment or treat these setup instructions as security guidance. No current maintenance or support is implied.
+
+
 This is a Rails 5 app.
 
 ## Documentation
